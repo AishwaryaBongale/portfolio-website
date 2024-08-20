@@ -50,12 +50,12 @@ const About = () => {
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy working
-        out, watching movies, and cooking. I am also passionate about{" "}
+        <span className="italic">When I&apos;m not coding</span>, I enjoy
+        working out, watching movies, and cooking. I am also passionate about{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
-        <span className="font-medium">GraphQL with Apollo Server</span>. I'm
-        also learning how to play tennis.
+        <span className="font-medium">GraphQL with Apollo Server</span>.
+        I&apos;m also learning how to play tennis.
       </p>
     </motion.section>
   );
